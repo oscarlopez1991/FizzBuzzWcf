@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="617e45f3-a333-487a-ac9f-3b490ac6d7ed" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51417/FizzBuzzService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FizzBuzzService.xsd" MetadataType="Schema" ID="b42c6335-dc73-4887-a0de-aeaf04c9b93e" SourceId="1" SourceUrl="http://localhost:51417/FizzBuzzService.svc?xsd=xsd0" />
+    <MetadataFile FileName="FizzBuzzService.wsdl" MetadataType="Wsdl" ID="5da194b0-635d-4281-86c1-bf146ed9eff2" SourceId="1" SourceUrl="http://localhost:51417/FizzBuzzService.svc?wsdl" />
+    <MetadataFile FileName="FizzBuzzService1.xsd" MetadataType="Schema" ID="48733769-9937-4622-bdaa-af9589f40af1" SourceId="1" SourceUrl="http://localhost:51417/FizzBuzzService.svc?xsd=xsd1" />
+    <MetadataFile FileName="FizzBuzzService2.xsd" MetadataType="Schema" ID="ad73e9e5-c308-4682-8cff-5a3280885e1e" SourceId="1" SourceUrl="http://localhost:51417/FizzBuzzService.svc?xsd=xsd2" />
+    <MetadataFile FileName="FizzBuzzService.disco" MetadataType="Disco" ID="002e336b-799d-4f3f-9032-0e5b67893a44" SourceId="1" SourceUrl="http://localhost:51417/FizzBuzzService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

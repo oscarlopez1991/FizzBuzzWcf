@@ -1,0 +1,14 @@
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\FizzBuzz_Solid.Test.dll
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\FizzBuzz_Solid.Test.pdb
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\WcfService.dll
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\log4net.dll
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\WcfService.pdb
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\WcfService.dll.config
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\log4net.xml
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\obj\Debug\WcfService.Test.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\obj\Debug\WcfService.Test.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\obj\Debug\WcfService.Test.csproj.CopyComplete
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\obj\Debug\FizzBuzz_Solid.Test.dll
+C:\Users\Oscar\Desktop\WcfService\FizzBuzzWcf.Test\obj\Debug\FizzBuzz_Solid.Test.pdb
